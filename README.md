@@ -1,8 +1,12 @@
-# The Open Source Audit: [Insert Your Software Name Here]
+name-Tanishq Raghuvanshi
+reg no.- 24bey10168
+
+
+# The Open Source Audit: [VLC media player  ]
 ### OSS NGMC Capstone Project | VITyarthi
 
 ## 📌 Project Overview
-This project is a structured audit of **[Insert Your Software Name]**, conducted as part of the Open Source Software (OSS) course. It explores the intersection of software philosophy, licensing ethics, and practical Linux systems administration.
+This project is a structured audit of **[vlc media player]**, conducted as part of the Open Source Software (OSS) course. It explores the intersection of software philosophy, licensing ethics, and practical Linux systems administration.
 
 [cite_start]The goal is to move beyond "what" the software does and investigate **why** it exists, **who** built it, and **how** it functions within the Linux ecosystem[cite: 13].
 
